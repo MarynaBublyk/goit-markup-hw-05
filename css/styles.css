@@ -505,8 +505,6 @@ img {
   background-color: var(--green);
 }
 
-
-
 .footer-form {
   display: flex;
   gap: 24px;
@@ -569,7 +567,7 @@ color: var(--white, #FFF);
 .submit-footer-btn:focus {
   background: var(--ocean, #404bbf);
 }
-}
+
 
 /* PAGE 2 */
 
